@@ -1,0 +1,352 @@
+SplineFontDB: 3.2
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Regular
+Copyright: Copyright (c) 2023, Willow
+UComments: "2023-3-23: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 459 831023797 19301]
+StyleMap: 0x0000
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1679583915
+ModificationTime: 1679587623
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 90
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: 16
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 27 19
+BeginChars: 1114112 20
+
+StartChar: uni0000
+Encoding: 0 0 0
+Width: 1000
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: A
+Encoding: 65 65 1
+Width: 1000
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Agrave
+Encoding: 192 192 2
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Aacute
+Encoding: 193 193 3
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Acircumflex
+Encoding: 194 194 4
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Atilde
+Encoding: 195 195 5
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Adieresis
+Encoding: 196 196 6
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Aring
+Encoding: 197 197 7
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: AE
+Encoding: 198 198 8
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Amacron
+Encoding: 256 256 9
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Abreve
+Encoding: 258 258 10
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Aogonek
+Encoding: 260 260 11
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01CD
+Encoding: 461 461 12
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01DE
+Encoding: 478 478 13
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01E0
+Encoding: 480 480 14
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Aringacute
+Encoding: 506 506 15
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0200
+Encoding: 512 512 16
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0202
+Encoding: 514 514 17
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0226
+Encoding: 550 550 18
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni023A
+Encoding: 570 570 19
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+EndChars
+BitmapFont: 16 53 13 3 1
+BDFChar: 0 0 16 0 15 -3 12
+<E4PL!!.TM!!.TM!!.TM!!.TM!!.TM!!.TM!!0+"
+BDFChar: -1 4 16 0 15 -3 12
+<E4PL*9!!P*2/Ie*8uDJ!!2h5,uLRZ-;gU9!!0+"
+BDFChar: 1 65 16 1 10 0 9
+56*nJ^qdb$^qfucs1lFc^qdb$
+BDFChar: -1 1 16 0 15 -3 12
+<E4PL4/nsQ3k:-H4/m`1!!.TM!!.TM!!.TM!!0+"
+BDFChar: -1 2 16 0 15 -3 12
+<E4PL41V)I3g#;]4->$n!!.TM!!.TM!!.TM!!0+"
+BDFChar: -1 3 16 0 15 -3 12
+<E4PL*9!!P*2/Ie*8uDJ!!/Wq#t]r/#t]tE!!0+"
+BDFChar: -1 5 16 0 15 -3 12
+<E4PL!!2`)7&BUQ7B,pd!!@`O!!.TM!!.TM!!0+"
+BDFChar: -1 6 16 0 15 -3 12
+<E4PL4/o5.3\dW_/#e%!!!.TM!!.TM!!.TM!!0+"
+BDFChar: -1 7 16 0 15 -3 12
+<E4U#"2TW*#N:Hr#N:a5!!.TM1SLfk4!CUH1V'Nc
+BDFChar: -1 8 16 0 15 -3 12
+<E4PL2q>#E58gR;2:[3WJ,d\_J'XNRH%1>E!!0+"
+BDFChar: -1 9 16 0 15 -3 12
+<E4PL!!.TM&UfcQ*taVH&J9Nn!!.TM!!.TM!!0+"
+BDFChar: -1 10 16 0 15 -3 12
+<E4PL!!/bf+G$3T+G$295(S4a!!.TM!!.TM!!0+"
+BDFChar: -1 11 16 0 15 -3 12
+<E4PL!!/hh+sE[''Hr\`#U+]u!!.TM!!.TM!!0+"
+BDFChar: -1 12 16 0 15 -3 12
+<E4PL!!/^>&4)n4&4)CC&4)CC!!.TM!!.TM!!0+"
+BDFChar: -1 13 16 0 15 -3 12
+<E4PL!!.TM!!.TM!!.TM!!.TM!!.TM!!.TM!!0+"
+BDFChar: -1 14 16 0 15 -3 12
+<E4PL!!.TM!!.TM!!.TM!!.TM!!.TM!!.TM!!0+"
+BDFChar: -1 15 16 0 15 -3 12
+<E4PL!!.TM!!.TM!!.TM!!.TM!!.TM!!.TM!!0+"
+BDFChar: -1 16 16 0 15 -3 12
+<E4PL!!.TM!!.TM!!.TM!!.TM!!.TM!!.TM!!0+"
+BDFChar: -1 17 16 0 15 -3 12
+<E4PL!!.TM!!.TM!!.TM!!.TM!!.TM!!.TM!!0+"
+BDFChar: -1 18 16 0 15 -3 12
+<E4PL!!.TM!!.TM!!.TM!!.TM!!.TM!!.TM!!0+"
+BDFChar: -1 19 16 0 15 -3 12
+<E4PL!!.TM!!.TM!!.TM!!.TM!!.TM!!.TM!!0+"
+BDFChar: -1 20 16 0 15 -3 12
+<E4PL!!.TM!!.TM!!.TM!!.TM!!.TM!!.TM!!0+"
+BDFChar: -1 21 16 0 15 -3 12
+<E4PL!!.TM!!.TM!!.TM!!.TM!!.TM!!.TM!!0+"
+BDFChar: -1 22 16 0 15 -3 12
+<E4PL!!.TM!!.TM!!.TM!!.TM!!.TM!!.TM!!0+"
+BDFChar: -1 23 16 0 15 -3 12
+<E4PL!!.TM!!.TM!!.TM!!.TM!!.TM!!.TM!!0+"
+BDFChar: -1 24 16 0 15 -3 12
+<E4PL!!.TM!!.TM!!.TM!!.TM!!.TM!!.TM!!0+"
+BDFChar: -1 25 16 0 15 -3 12
+<E4PL!!.TM!!.TM!!.TM!!.TM!!.TM!!.TM!!0+"
+BDFChar: -1 26 16 0 15 -3 12
+<E4PL!!.TM!!.TM!!.TM!!.TM!!.TM!!.TM!!0+"
+BDFChar: -1 27 16 0 15 -3 12
+<E4PL!!.TM!!.TM!!.TM!!.TM!!.TM!!.TM!!0+"
+BDFChar: -1 28 16 0 15 -3 12
+<E4PL!!.TM!!.TM!!.TM!!.TM!!.TM!!.TM!!0+"
+BDFChar: -1 29 16 0 15 -3 12
+<E4PL!!.TM!!.TM!!.TM!!.TM!!.TM!!.TM!!0+"
+BDFChar: -1 30 16 0 15 -3 12
+<E4PL!!.TM!!.TM!!.TM!!.TM!!.TM!!.TM!!0+"
+BDFChar: -1 31 16 0 15 -3 12
+<E4PL!!.TM!!.TM!!.TM!!.TM!!.TM!!.TM!!0+"
+BDFChar: 2 192 16 0 0 0 0
+z
+BDFChar: 3 193 16 0 0 0 0
+z
+BDFChar: 4 194 16 0 0 0 0
+z
+BDFChar: 5 195 16 0 0 0 0
+z
+BDFChar: 6 196 16 0 0 0 0
+z
+BDFChar: 7 197 16 0 0 0 0
+z
+BDFChar: 8 198 16 0 0 0 0
+z
+BDFChar: 9 256 16 0 0 0 0
+z
+BDFChar: 10 258 16 0 0 0 0
+z
+BDFChar: 11 260 16 0 0 0 0
+z
+BDFChar: 12 461 16 0 0 0 0
+z
+BDFChar: 13 478 16 0 0 0 0
+z
+BDFChar: 14 480 16 0 0 0 0
+z
+BDFChar: 15 506 16 0 0 0 0
+z
+BDFChar: 16 512 16 0 0 0 0
+z
+BDFChar: 17 514 16 0 0 0 0
+z
+BDFChar: 18 550 16 0 0 0 0
+z
+BDFChar: 19 570 16 0 0 0 0
+z
+BDFChar: -1 69 16 0 0 0 0
+z
+BDFChar: -1 43 16 0 0 0 0
+z
+BDFRefChar: 2 1 0 0 N
+BDFRefChar: 3 1 0 0 N
+BDFRefChar: 4 1 0 0 N
+BDFRefChar: 5 1 0 0 N
+BDFRefChar: 6 1 0 0 N
+BDFRefChar: 7 1 0 0 N
+BDFRefChar: 8 1 0 0 N
+BDFRefChar: 9 1 0 0 N
+BDFRefChar: 10 1 0 0 N
+BDFRefChar: 11 1 0 0 N
+BDFRefChar: 12 1 0 0 N
+BDFRefChar: 13 1 0 0 N
+BDFRefChar: 14 1 0 0 N
+BDFRefChar: 15 1 0 0 N
+BDFRefChar: 16 1 0 0 N
+BDFRefChar: 17 1 0 0 N
+BDFRefChar: 18 1 0 0 N
+BDFRefChar: 19 1 0 0 N
+EndBitmapFont
+EndSplineFont
