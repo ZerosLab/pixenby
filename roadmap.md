@@ -1,11 +1,11 @@
-##ROADMAP
+## ROADMAP
 
 this file contains a list of every code block that i plan to impliment in pixenby, sorted by standard (unicode, then CUR, then UCUR, then other assorted Private use agreements)
 
 
 
 
-#Unicode
+## Unicode
 - ~~C0~~
 - ~~C1~~
 - ~~Basic Latin~~
@@ -336,7 +336,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 
 
 
-#Conscript Unicode Registry
+## Conscript Unicode Registry
 
 - Tengwar
 - Cirth
@@ -381,7 +381,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Kinya Syllables
 - Pikto
 
-#Under-Conscript Unicode Registry
+# Under-Conscript Unicode Registry
 - Sylabica
 - Amlin
 - Unifon Extended
@@ -409,7 +409,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Sitelen Pona
 - Shidinn
 
-##Assorted Others
+## Assorted Others
 - Kreative Software 
   - F610-F617
   - F700-F70F
