@@ -1,18 +1,20 @@
-## ROADMAP
+### ROADMAP
 
-this file contains a list of every code block that i plan to impliment in pixenby, sorted by standard (unicode, then CSUR, then UCSUR, then other assorted Private use agreements)
+this file contains a list of every code block that i plan to impliment in pixenby, sorted by standard (unicode, then CUR, then UCUR, then other assorted Private use agreements)
 
 
 
 
 ## Unicode
+
+# BMP
 - ~~C0~~
 - ~~C1~~
 - ~~Basic Latin~~
 - ~~Latin-1 Supplement~~
 - Latin Extended-A
 - Latin Extended-B
-- IPA Extension
+- IPA Extensions
 - Spacing Modifier Letters
 - Combining Diacritical Marks
 - Greek and Coptic
@@ -172,6 +174,8 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Arabic Presentation Forms-B
 - Halfwidth and Fullwidth Forms
 - Specials
+
+# SMP
 - Linear B Syllabary
 - Linear B Ideograms
 - Aegean Numbers
@@ -323,18 +327,22 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Chess Symbols
 - Symbols and Pictographs Extended-A
 - Symbols for Legacy Computing
+
+# SIP
 - CJK Unified Ideographs Extension B
 - CJK Unified Ideographs Extension C
 - CJK Unified Ideographs Extension D
 - CJK Unified Ideographs Extension E
 - CJK Unified Ideographs Extension F
 - CJK Compatibility Ideographs Supplement
+
+# TIP
 - CJK Unified Ideographs Extension G
 - CJK Unified Ideographs Extension H
+
+# SSP
 - ~~Tags~~
 - Variation Selectors Supplement
-
-
 
 ## Conscript Unicode Registry
 
@@ -424,30 +432,4 @@ this file contains a list of every code block that i plan to impliment in pixenb
   - FF0A1, FF0A3
   - FF100-FF167
 - Voynich Unicode
-
-
-
-## Medieval Unicode Font Initiative
-In addition to the main font, which will use CSUR and compatible standards, ill also make one that uses the Medieval Unicode Font Initiative. These are the progress checks for that.
-- Latin Extentions 1
-- Latin Extentions 2
-- Latin Extentions 3
-- Latin Extentions 4
-- Latin Extentions 5
-- Small Capitals
-- Ligatures 
-- Combining Marks
-- Latin Extentions 6
-- General Punctuation
-- Latin Extentions 7
-- Currency Symbols
-- Ligatures 2
-- Metrical Symbols
-- Number Forms
-
-
-
-
-
-
 
