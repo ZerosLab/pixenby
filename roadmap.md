@@ -1,6 +1,6 @@
 ## ROADMAP
 
-this file contains a list of every code block that i plan to impliment in pixenby, sorted by standard (unicode, then CUR, then UCUR, then other assorted Private use agreements)
+this file contains a list of every code block that i plan to impliment in pixenby, sorted by standard (unicode, then CSUR, then UCSUR, then other assorted Private use agreements)
 
 
 
@@ -12,7 +12,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - ~~Latin-1 Supplement~~
 - Latin Extended-A
 - Latin Extended-B
-- IPA Extensions
+- IPA Extension
 - Spacing Modifier Letters
 - Combining Diacritical Marks
 - Greek and Coptic
@@ -424,4 +424,30 @@ this file contains a list of every code block that i plan to impliment in pixenb
   - FF0A1, FF0A3
   - FF100-FF167
 - Voynich Unicode
+
+
+
+## Medieval Unicode Font Initiative
+In addition to the main font, which will use CSUR and compatible standards, ill also make one that uses the Medieval Unicode Font Initiative. These are the progress checks for that.
+- Latin Extentions 1
+- Latin Extentions 2
+- Latin Extentions 3
+- Latin Extentions 4
+- Latin Extentions 5
+- Small Capitals
+- Ligatures 
+- Combining Marks
+- Latin Extentions 6
+- General Punctuation
+- Latin Extentions 7
+- Currency Symbols
+- Ligatures 2
+- Metrical Symbols
+- Number Forms
+
+
+
+
+
+
 
