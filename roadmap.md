@@ -12,7 +12,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - ~~C1~~
 - ~~Basic Latin~~
 - ~~Latin-1 Supplement~~
-- Latin Extended-A
+- ~~Latin Extended-A~~
 - Latin Extended-B
 - IPA Extensions
 - Spacing Modifier Letters
@@ -294,7 +294,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Ancient Greek Musical Notation
 - Kaktovik Numerals
 - Mayan Numerals
-- Tai Xuan Jing Symbols
+- ~~Tai Xuan Jing Symbols~~
 - Counting Rod Numerals
 - Mathematical Alphanumeric Symbols
 - Sutton SignWriting
