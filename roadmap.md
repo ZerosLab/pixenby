@@ -173,7 +173,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Small Form Variants
 - Arabic Presentation Forms-B
 - Halfwidth and Fullwidth Forms
-- Specials
+- ~~Specials~~
 
 # SMP
 - Linear B Syllabary
