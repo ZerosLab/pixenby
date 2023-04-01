@@ -423,13 +423,13 @@ this file contains a list of every code block that i plan to impliment in pixenb
   - F700-F70F
   - F715-F79F
   - F7D0-F7DF
-  - F7E5-F7FF
-  - F814-F823
+  - ~~F7E5-F7FF~~
+  - ~~F814-F823~~
   - ~~F827~~
-  - F830-F87C
+  - ~~F830-F87C~~
   - ~~F87E-F89F~~
   - ~~FF000-FF095~~
   - ~~FF0A1, FF0A3~~
-  - FF100-FF167
+  - ~~FF100-FF167~~
 - Voynich Unicode
 
