@@ -419,17 +419,17 @@ this file contains a list of every code block that i plan to impliment in pixenb
 
 ## Assorted Others
 - Kreative Software 
-  - F610-F617
+  - ~~F610-F617~~
   - F700-F70F
   - F715-F79F
   - F7D0-F7DF
   - F7E5-F7FF
   - F814-F823
-  - F827
+  - ~~F827~~
   - F830-F87C
-  - F87E-F89F
-  - FF000-FF095
-  - FF0A1, FF0A3
+  - ~~F87E-F89F~~
+  - ~~FF000-FF095~~
+  - ~~FF0A1, FF0A3~~
   - FF100-FF167
 - Voynich Unicode
 
