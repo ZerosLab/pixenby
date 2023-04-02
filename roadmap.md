@@ -13,7 +13,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - ~~Basic Latin~~
 - ~~Latin-1 Supplement~~
 - ~~Latin Extended-A~~
-- Latin Extended-B
+- ~~Latin Extended-B~~
 - IPA Extensions
 - Spacing Modifier Letters
 - Combining Diacritical Marks
