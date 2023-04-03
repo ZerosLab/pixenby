@@ -14,7 +14,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - ~~Latin-1 Supplement~~
 - ~~Latin Extended-A~~
 - ~~Latin Extended-B~~
-- IPA Extensions
+- ~~IPA Extensions~~
 - Spacing Modifier Letters
 - Combining Diacritical Marks
 - Greek and Coptic
