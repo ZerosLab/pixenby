@@ -422,7 +422,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
   - ~~F610-F617~~
   - F700-F70F
   - F715-F79F
-  - F7D0-F7DF
+  - ~~F7D0-F7DF~~
   - ~~F7E5-F7FF~~
   - ~~F814-F823~~
   - ~~F827~~
