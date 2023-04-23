@@ -432,4 +432,11 @@ this file contains a list of every code block that i plan to impliment in pixenb
   - ~~FF0A1, FF0A3~~
   - ~~FF100-FF167~~
 - Voynich Unicode
-
+- ~~Block Sextants (ZVBI)~~
+- ~~Block Sextants (UNSCII)~~
+- Hex Byte pictures
+- Fill Patterns
+- Shade Quadrants
+- ~~Sixel Graphics~~
+- ~~Block Sextants~~
+- ~~Block Octants~~
