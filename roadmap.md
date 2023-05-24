@@ -418,7 +418,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Shidinn
 
 ## Assorted Others
-- Kreative Software 
+- ~~Kreative Software ~~
   - ~~F610-F617~~
   - ~~F700-F70F~~
   - ~~F715-F79F~~
