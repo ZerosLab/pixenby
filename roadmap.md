@@ -99,7 +99,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Geometric Shapes
 - Miscellaneous Symbols
 - Dingbats
-- Miscellaneous Mathematical Symbols-A
+- ~~Miscellaneous Mathematical Symbols-A~~
 - Supplemental Arrows-A
 - Braille Patterns
 - Supplemental Arrows-B
