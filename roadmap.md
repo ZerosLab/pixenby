@@ -51,7 +51,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Ethiopic
 - Ethiopic Supplement
 - Cherokee
-- ~~Unified Canadian Aboriginal Syllabics~~
+- Unified Canadian Aboriginal Syllabics
 - Ogham
 - Runic
 - Tagalog
@@ -251,7 +251,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Nandinagari
 - Zanabazar Square
 - Soyombo
-- Unified Canadian Aboriginal Syllabics Extended-A
+- ~~Unified Canadian Aboriginal Syllabics Extended-A~~
 - Pau Cin Hau
 - Devanagari Extended-A
 - Bhaiksuki
