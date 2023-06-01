@@ -101,7 +101,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Dingbats
 - ~~Miscellaneous Mathematical Symbols-A~~
 - Supplemental Arrows-A
-- Braille Patterns
+- ~~Braille Patterns~~
 - Supplemental Arrows-B
 - Miscellaneous Mathematical Symbols-B
 - Supplemental Mathematical Operators
