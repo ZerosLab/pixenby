@@ -386,7 +386,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Ath
 - Aiha
 - Klingon
-- Kinya Syllables
+- ~~Kinya Syllables~~
 - Pikto
 
 # Under-Conscript Unicode Registry
