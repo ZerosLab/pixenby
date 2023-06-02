@@ -52,7 +52,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Ethiopic Supplement
 - Cherokee
 - Unified Canadian Aboriginal Syllabics
-- Ogham
+- ~~Ogham~~
 - Runic
 - Tagalog
 - Hanunoo
