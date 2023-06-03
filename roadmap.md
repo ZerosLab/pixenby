@@ -434,9 +434,9 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Voynich Unicode
 - ~~Block Sextants (ZVBI)~~
 - ~~Block Sextants (UNSCII)~~
-- Hex Byte pictures
-- Fill Patterns
-- Shade Quadrants
+- ~~Hex Byte pictures~~
+- ~~Fill Patterns~~
+- ~~Shade Quadrants~~
 - ~~Sixel Graphics~~
 - ~~Block Sextants~~
 - ~~Block Octants~~
