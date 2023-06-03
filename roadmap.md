@@ -182,7 +182,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Ancient Greek Numbers
 - Ancient Symbols
 - Phaistos Disc
-- Lycian
+- ~~Lycian~~
 - Carian
 - Coptic Epact Numbers
 - Old Italic
