@@ -292,7 +292,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Byzantine Musical Symbols
 - Musical Symbols
 - Ancient Greek Musical Notation
-- Kaktovik Numerals
+- ~~Kaktovik Numerals~~
 - Mayan Numerals
 - ~~Tai Xuan Jing Symbols~~
 - Counting Rod Numerals
