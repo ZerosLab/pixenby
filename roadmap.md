@@ -342,7 +342,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 
 # SSP
 - ~~Tags~~
-- Variation Selectors Supplement
+- ~~Variation Selectors Supplement~~
 
 ## Conscript Unicode Registry
 
