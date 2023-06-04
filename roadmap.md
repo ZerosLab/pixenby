@@ -107,7 +107,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Supplemental Mathematical Operators
 - Miscellaneous Symbols and Arrows
 - Glagolitic
-- Latin Extended-C
+- ~~Latin Extended-C~~
 - Coptic
 - Georgian Supplement
 - Tifinagh
