@@ -17,7 +17,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - ~~IPA Extensions~~
 - ~~Spacing Modifier Letters~~
 - ~~Combining Diacritical Marks~~
-- Greek and Coptic
+- ~~Greek and Coptic~~
 - Cyrillic
 - Cyrillic Supplement
 - Armenian
