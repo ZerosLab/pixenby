@@ -82,7 +82,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Combining Diacritical Marks Supplement
 - Latin Extended Additional
 - Greek Extended
-- General Punctuation
+- ~~General Punctuation~~
 - Superscripts and Subscripts
 - Currency Symbols
 - Combining Diacritical Marks for Symbols
