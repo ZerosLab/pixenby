@@ -84,7 +84,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Greek Extended
 - ~~General Punctuation~~
 - Superscripts and Subscripts
-- Currency Symbols
+- ~~Currency Symbols~~
 - Combining Diacritical Marks for Symbols
 - Letterlike Symbols
 - ~~Number Forms~~
