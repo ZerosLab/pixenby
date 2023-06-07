@@ -113,7 +113,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Tifinagh
 - Ethiopic Extended
 - Cyrillic Extended-A
-- Supplemental Punctuation
+- ~~Supplemental Punctuation~~
 - CJK Radicals Supplement
 - Kangxi Radicals
 - ~~Ideographic Description Characters~~
@@ -287,7 +287,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Small Kana Extension
 - Nushu
 - Duployan
-- Shorthand Format Controls
+- ~~Shorthand Format Controls~~
 - Znamenny Musical Notation
 - Byzantine Musical Symbols
 - Musical Symbols
