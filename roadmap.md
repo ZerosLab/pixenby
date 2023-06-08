@@ -117,7 +117,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - CJK Radicals Supplement
 - Kangxi Radicals
 - ~~Ideographic Description Characters~~
-- CJK Symbols and Punctuation
+- ~~CJK Symbols and Punctuation~~
 - Hiragana
 - Katakana
 - Bopomofo
