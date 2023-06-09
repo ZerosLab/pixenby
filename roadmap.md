@@ -267,7 +267,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Early Dynastic Cuneiform
 - Cypro-Minoan
 - Egyptian Hieroglyphs
-- Egyptian Hieroglyph Format Controls
+- ~~Egyptian Hieroglyph Format Controls~~
 - Anatolian Hieroglyphs
 - Bamum Supplement
 - Mro
