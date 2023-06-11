@@ -404,7 +404,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Standard Galactic
 - ~~Braille Extended~~
 - ~~Cistercian Numerals~~
-- Kaktovik Numerals
+- ~~Kaktovik Numerals (NOW HAVE UNICODE BLOCK)~~
 - Cylenian
 - Syrrin
 - Graflect
