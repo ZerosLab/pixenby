@@ -378,7 +378,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Ophidian
 - Ferengi
 - Seussian Latin Extensions
-- Ewellic
+- ~~Ewellic~~
 - ~~Unifon~~
 - Solresol
 - Visible Speech
@@ -390,9 +390,9 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Pikto
 
 # Under-Conscript Unicode Registry
-- Sylabica
-- Amlin
-- Unifon Extended
+- ~~Sylabica~~
+- ~~Amlin~~
+- ~~Unifon Extended~~
 - Dni
 - Aurebesh
 - ~~Tonal~~
