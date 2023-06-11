@@ -380,8 +380,8 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Seussian Latin Extensions
 - ~~Ewellic~~
 - ~~Unifon~~
-- Solresol
-- Visible Speech
+- ~~Solresol~~
+- ~~Visible Speech~~
 - Monofon
 - Ath
 - Aiha
