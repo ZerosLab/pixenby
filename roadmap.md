@@ -406,7 +406,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - ~~Cistercian Numerals~~
 - ~~Kaktovik Numerals (NOW HAVE UNICODE BLOCK)~~
 - ~~Cylenian~~
-- Syrrin
+- ~~Syrrin~~
 - Graflect
 - Deini
 - Niji
