@@ -394,7 +394,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - ~~Amlin~~
 - ~~Unifon Extended~~
 - Dni
-- Aurebesh
+- ~~Aurebesh~~
 - ~~Tonal~~
 - Glaitha-A
 - Glaitha-B
