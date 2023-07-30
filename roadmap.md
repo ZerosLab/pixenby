@@ -66,7 +66,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - New Tai Lue
 - Khmer Symbols
 - Buginese
-- Tai Tham
+- ~~Tai Tham~~
 - Combining Diacritical Marks Extended
 - Balinese
 - Sundanese
