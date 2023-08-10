@@ -209,7 +209,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Meroitic Hieroglyphs
 - Meroitic Cursive
 - Kharoshthi
-- Old South Arabian
+- ~~Old South Arabian~~
 - Old North Arabian
 - Manichaean
 - Avestan
