@@ -166,7 +166,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - CJK Compatibility Ideographs
 - Alphabetic Presentation Forms
 - Arabic Presentation Forms-A
-- Variation Selectors
+- ~~Variation Selectors~~
 - ~~Vertical Forms~~
 - Combining Half Marks
 - CJK Compatibility Forms
