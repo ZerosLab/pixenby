@@ -180,7 +180,7 @@ this file contains a list of every code block that i plan to impliment in pixenb
 - Linear B Ideograms
 - Aegean Numbers
 - Ancient Greek Numbers
-- Ancient Symbols
+- ~~Ancient Symbols~~
 - Phaistos Disc
 - ~~Lycian~~
 - Carian
