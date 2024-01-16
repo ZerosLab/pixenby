@@ -1,6 +1,10 @@
 <!DOCTYPE HTML>
 <head>
-
+<script>
+  function basicLatin(){
+	sidebar.innerHTML = "Basic Latin";
+}
+</script>
 <style>
   @font-face {
   font-family: pixenby;
@@ -13,9 +17,10 @@
 </style>
   
 </head>
+<div style="align:right;width:25%"></div>
 <body>
 
-    Basic Latin<br>
+    <p onclick="basicLatin()">Basic Latin<br></p>
     Latin-1 Supplement<br>
     Latin Extended-A<br>
     Latin Extended-B<br>
